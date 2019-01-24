@@ -1,0 +1,13 @@
+name: RefChValue
+title: RefChValue
+username:
+account: biessea
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 663222
+bundleId: 1834077
+url: https://biessea.shinyapps.io/RefChValue/
+when: 1548334953.66102
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .gitattributes|code.R|dati.csv|dati.txt|dati.xls|Friedrichs_et_al-2012-Veterinary_Clinical_Pathology.pdf|Rplot.png|v67i01.pdf
